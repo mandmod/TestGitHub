@@ -18,8 +18,5 @@
 	echo 'Create Branch3';
 	echo 'Branch3';
 	echo 'Branch3';
-	
-	echo 'tag1';
-	echo 'tag2';
 ?>
 
